@@ -1,2 +1,2 @@
 # datastructs
-strcmp implementation homework
+Data structs first week homework
