@@ -1,0 +1,2 @@
+# datastructs
+strcmp implementation homework
