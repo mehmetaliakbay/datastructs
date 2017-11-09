@@ -41,8 +41,6 @@ node *createNode(node *head,int data)
 		temp->prev=temp;
 		p=temp;
 		p->next=NULL;
-
-
 	}
 	p->data=data;
 
