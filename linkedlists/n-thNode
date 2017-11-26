@@ -1,0 +1,10 @@
+    public ListNode nth(int position)
+    {
+        if(position==1)
+            return this;
+        
+        else if((position<1) || (next==null))
+            return null;
+        else
+            return next.nth(position-1);
+    }
