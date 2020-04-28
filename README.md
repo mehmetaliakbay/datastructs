@@ -1,2 +1,2 @@
-# datastructs
-Data structs first week homework
+# C language Datastructs Implementation
+Data structs homeworks
